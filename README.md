@@ -19,9 +19,8 @@
   <img align="left" alt="Vladut Margineanu's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-
 <br />
-
+---
 Hi, I'm [Vladut Margineanu](https://www.instagram.com/vladutmargineanu/), a passionate Computer Science Engineer. I take great care in the experience, architecture and code quality of the things I build.
 
 
@@ -29,8 +28,8 @@ Hi, I'm [Vladut Margineanu](https://www.instagram.com/vladutmargineanu/), a pass
   
  ---
   
-- 💼 Any freelance work? do reach, [email](mailto:vladut.margineanu@gmail.com).
-- 💬 Ask me about anything, I am happy to help.
+- 💼 Any freelance work? Do reach, [email](mailto:vladut.margineanu@gmail.com).
+- 💬 Ask me about anything, I am happy to help!
 
 ---
 
@@ -51,7 +50,7 @@ Hi, I'm [Vladut Margineanu](https://www.instagram.com/vladutmargineanu/), a pass
 If you like what I do, maybe consider buying me a coffee/tea! 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/margineanu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
+---
 
 📈 my github stats
 ---
