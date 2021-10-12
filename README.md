@@ -59,10 +59,10 @@ If you like what I do, maybe consider buying me a coffee/tea! 🥺👉👈
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladutmargineanu&theme=gotham&show_icons=true)
 ---  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladutmargineanu&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladutmargineanu&layout=compact&theme=gotham)
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vladutmargineanu&theme=gotham)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vladutmargineanu&theme=gotham)
 
 ---
 Visitors:
