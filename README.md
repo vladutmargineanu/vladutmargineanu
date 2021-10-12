@@ -20,7 +20,9 @@
 </a>
 
 <br />
+
 ---
+
 Hi, I'm [Vladut Margineanu](https://www.instagram.com/vladutmargineanu/), a passionate Computer Science Engineer. I take great care in the experience, architecture and code quality of the things I build.
 
 
