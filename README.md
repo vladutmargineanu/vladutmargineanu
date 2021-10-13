@@ -72,6 +72,7 @@ Visitors:
 
 
 ---
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/vladutmargineanu/)
 
 Thanks! 💚
 
