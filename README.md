@@ -25,6 +25,8 @@
 
 Hi, I'm [Vladut Margineanu](https://www.instagram.com/vladutmargineanu/), a passionate Computer Science Engineer. I take great care in the experience, architecture and code quality of the things I build.
 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/vladutmargineanu/)
+
   <img align="right" alt="GIF" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/code.gif?raw=true" width="390" height="300" />
   
 ---
@@ -51,7 +53,7 @@ Hi, I'm [Vladut Margineanu](https://www.instagram.com/vladutmargineanu/), a pass
 
 If you like what I do, maybe consider buying me a coffee/tea! 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/margineanu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/margineanu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 ---
 
 📈 My github stats:
@@ -72,7 +74,6 @@ Visitors:
 
 
 ---
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/vladutmargineanu/)
 
 Thanks! 💚
 
