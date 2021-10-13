@@ -73,6 +73,6 @@ Visitors:
 
 ---
 
-Thanks! ❤️
+Thanks! 💚
 
 ---
