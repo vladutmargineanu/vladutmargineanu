@@ -51,7 +51,7 @@ Hi, I'm [Vladut Margineanu](https://www.instagram.com/vladutmargineanu/), a pass
 ---
 
 
-If you like what I do, maybe consider buying me a coffee/tea! 🥺👉👈
+If you like what I do, maybe consider buying me a coffee! 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/margineanu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 ---
