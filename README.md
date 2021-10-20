@@ -27,7 +27,7 @@ Hi, I'm [Vladut Margineanu](https://www.instagram.com/vladutmargineanu/), a pass
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/vladutmargineanu/)
 
-  <img align="right" alt="GIF" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/code.gif?raw=true" width="390" height="300" />
+  <img align="right" alt="GIF" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/code.gif?raw=true" width="380" height="300" />
   
 ---
   
