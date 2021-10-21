@@ -23,7 +23,7 @@
 
 ---
 
-Hi, I'm [Vladut Margineanu](https://www.instagram.com/vladutmargineanu/), a passionate Computer Science Engineer. I take great care in the experience, architecture and code quality of the things I build.
+Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate Computer Science Engineer. I take great care in the experience, architecture and code quality of the things I build.
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/vladutmargineanu/)
 
