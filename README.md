@@ -70,8 +70,6 @@ Visitors:
 ---
 ![VisitorCount](https://profile-counter.glitch.me/{id}/count.svg)
 
-![](https://gitwar.herokuapp.com/badge?username=vladutmargineanu&color=brightgreen)
-
 
 ---
 
