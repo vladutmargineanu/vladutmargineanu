@@ -1,6 +1,11 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <a href="https://twitter.com/vladutmg">
   <img align="left" alt="Vladut Margineanu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://vladutmargineanu.github.io/">
+  <img align="left" alt="Vladut Margineanu's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/vladutmargineanu/">
@@ -8,11 +13,11 @@
 </a>
 
 <a href="https://discordapp.com/users/vladutmargineanu#4038">
-  <img align="left" alt="Vladut Margineanu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Vladut Margineanu's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 <a href="https://www.twitch.tv/vladutmargineanu?sr=a">
-  <img align="left" alt="Vladut Margineanu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+  <img align="left" alt="Vladut Margineanu's Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
 </a>
 
 <a href="https://open.spotify.com/user/ci765jpew7plkqtsbgcwkra9s?si=9015587f20aa4e52">
