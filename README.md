@@ -41,7 +41,7 @@ Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate C
 
 ---
 
-**Languages and tools:**  
+**Languages and tools**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -58,7 +58,7 @@ Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate C
 
 ---
 
-## 📈 My github stats:
+## 📈 My github stats
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladutmargineanu&theme=gotham&show_icons=true)
 ---  
@@ -68,7 +68,7 @@ Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate C
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vladutmargineanu&theme=gotham)
 
 ---
-## Visitors:
+## Visitors
 ---
 ![VisitorCount](https://profile-counter.glitch.me/{id}/count.svg)
 
