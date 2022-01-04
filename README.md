@@ -1,4 +1,6 @@
-### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there!
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/vladutmg">
   <img align="left" alt="Vladut Margineanu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -55,15 +57,10 @@ Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate C
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 
+
 ---
 
-
-If you like what I do, maybe consider buying me a coffee! 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/margineanu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45px" width="160px" ></a>
----
-
-📈 My github stats:
+## 📈 My github stats:
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladutmargineanu&theme=gotham&show_icons=true)
 ---  
@@ -73,13 +70,19 @@ If you like what I do, maybe consider buying me a coffee! 🥺👉👈
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vladutmargineanu&theme=gotham)
 
 ---
-Visitors:
+## Visitors:
 ---
 ![VisitorCount](https://profile-counter.glitch.me/{id}/count.svg)
 
 
 ---
+## Support me
 
+If you like what I do, maybe consider buying me a coffee.
+
+<a href="https://www.buymeacoffee.com/margineanu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45px" width="160px" ></a>
+
+---
 Thanks! 💚
 
 ---
