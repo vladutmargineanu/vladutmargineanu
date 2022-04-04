@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://open.spotify.com/user/ci765jpew7plkqtsbgcwkra9s?si=9015587f20aa4e52">
-  <img align="left" alt="Vladut Margineanu's Spotify" width="45px" src="https://www.logo.wine/a/logo/Spotify/Spotify-Icon-Logo.wine.svg" />
+  <img align="left" alt="Vladut Margineanu's Spotify" width="42px" src="https://www.logo.wine/a/logo/Spotify/Spotify-Icon-Logo.wine.svg" />
 </a>
 
 <br />
