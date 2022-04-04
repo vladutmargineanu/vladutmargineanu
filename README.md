@@ -17,11 +17,11 @@
 </a>
 
 <a href="https://www.twitch.tv/vladutmargineanu?sr=a">
-  <img align="left" alt="Vladut Margineanu's Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+  <img align="left" alt="Vladut Margineanu's Twitch" width="22px" src="https://www.svgrepo.com/show/343527/twitch-network-communication-interaction-connection.svg" />
 </a>
 
 <a href="https://open.spotify.com/user/ci765jpew7plkqtsbgcwkra9s?si=9015587f20aa4e52">
-  <img align="left" alt="Vladut Margineanu's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Vladut Margineanu's Spotify" width="22px" src="https://commons.wikimedia.org/wiki/File:Spotify_logo_with_text.svg#/media/File:Spotify_logo_without_text.svg" />
 </a>
 
 <br />
