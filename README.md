@@ -78,6 +78,11 @@ Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate C
 
 If you like what I do, maybe consider buying me a coffee.
 
+<div style="border-radius: 15px; border: 4px solid #084CFA;">
+  <a href="https://revolut.me/vladutmargineanu" target="_blank" rel="noopener noreferrer"><img src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/Revolut-Icon-Logowine.png" alt="Revolut" width="90" height="60" /></a>
+</div>
+
+
 <a href="https://www.buymeacoffee.com/margineanu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45px" width="160px" ></a>
 
 ---
