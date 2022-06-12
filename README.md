@@ -83,7 +83,7 @@ If you like what I do, maybe consider buying me a coffee.
 </div>
 
 
-<a href="https://www.buymeacoffee.com/margineanu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45px" width="160px" ></a>
+<a href="https://www.buymeacoffee.com/margineanu" target="_blank"><img src="https://github.com/vladutmargineanu/vladutmargineanu.github.io/blob/main/images/default-yellow.png" alt="Buy Me A Coffee" height="45px" width="160px" ></a>
 
 ---
 Thanks! 💚
