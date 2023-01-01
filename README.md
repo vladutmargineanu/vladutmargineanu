@@ -82,9 +82,6 @@ If you like what I do, maybe consider buying me a coffee.
   <a href="https://revolut.me/vladutmargineanu" target="_blank" rel="noopener noreferrer"><img src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/Revolut-Icon-Logowine.png" alt="Revolut" width="90" height="60" /></a>
 </div>
 
-
-<a href="https://www.buymeacoffee.com/margineanu" target="_blank"><img src="https://github.com/vladutmargineanu/vladutmargineanu.github.io/blob/main/images/default-yellow.png" alt="Buy Me A Coffee" height="45px" width="160px" ></a>
-
 ---
 Thanks! 💚
 
