@@ -12,6 +12,10 @@
   <img align="left" alt="Vladut Margineanu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="https://www.youtube.com/@vladutmargineanu">
+  <img align="left" alt="Vladut Margineanu's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+
 <a href="https://discordapp.com/users/vladutmargineanu#4038">
   <img align="left" alt="Vladut Margineanu's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
