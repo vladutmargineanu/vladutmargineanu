@@ -1,5 +1,9 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://www.instagram.com/vladutmargineanu/">
+  <img align="left" alt="Vladut Margineanu | Instagram" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/instagram.svg" />
+</a>
+
 <a href="https://twitter.com/vladutmg">
   <img align="left" alt="Vladut Margineanu | Twitter" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/twitter.svg" />
 </a>
@@ -13,7 +17,7 @@
 </a>
 
 <a href="https://www.youtube.com/@vladutmargineanu">
-  <img align="left" alt="Vladut Margineanu's YouTube" width="34px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/youTube.svg" />
+  <img align="left" alt="Vladut Margineanu's YouTube" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/youTube.svg" />
 </a>
 
 <a href="https://discordapp.com/users/vladutmargineanu#4038">
@@ -33,8 +37,6 @@
 ---
 
 Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate Computer Science Engineer. I take great care in the experience, architecture and code quality of the things I build.
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/vladutmargineanu/)
 
   <img align="right" alt="GIF" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/code.gif?raw=true" width="380" height="300" />
   
@@ -88,5 +90,3 @@ If you like what I do, maybe consider buying me a coffee.
 
 ---
 Thanks! 💚
-
----
