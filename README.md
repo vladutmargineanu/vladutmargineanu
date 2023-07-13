@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://www.youtube.com/@vladutmargineanu">
-  <img align="left" alt="Vladut Margineanu's YouTube" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/youTube.svg" />
+  <img align="left" alt="Vladut Margineanu's YouTube" width="34px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/youTube.svg" />
 </a>
 
 <a href="https://discordapp.com/users/vladutmargineanu#4038">
