@@ -1,31 +1,31 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/vladutmg">
-  <img align="left" alt="Vladut Margineanu | Twitter" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/svg/twitter.svg?raw=true" />
+  <img align="left" alt="Vladut Margineanu | Twitter" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/twitter.svg" />
 </a>
 
 <a href="https://vladutmargineanu.github.io/">
-  <img align="left" alt="Vladut Margineanu's Spotify" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/svg/github.svg?raw=true" />
+  <img align="left" alt="Vladut Margineanu's Spotify" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/github.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/vladutmargineanu/">
-  <img align="left" alt="Vladut Margineanu's LinkedIN" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/tree/main/svg/linkedin.svg?raw=true" />
+  <img align="left" alt="Vladut Margineanu's LinkedIN" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/linkedin.svg" />
 </a>
 
 <a href="https://www.youtube.com/@vladutmargineanu">
-  <img align="left" alt="Vladut Margineanu's YouTube" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/tree/main/svg/youtube.svg?raw=true" />
+  <img align="left" alt="Vladut Margineanu's YouTube" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/youtube.svg" />
 </a>
 
 <a href="https://discordapp.com/users/vladutmargineanu#4038">
-  <img align="left" alt="Vladut Margineanu's Discord" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/tree/main/svg/discord.svg?raw=true" />
+  <img align="left" alt="Vladut Margineanu's Discord" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/discord.svg" />
 </a>
 
 <a href="https://www.twitch.tv/vladutmargineanu?sr=a">
-  <img align="left" alt="Vladut Margineanu's Twitch" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/tree/main/svg/twitch.svg?raw=true" />
+  <img align="left" alt="Vladut Margineanu's Twitch" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/twitch.svg" />
 </a>
 
 <a href="https://open.spotify.com/user/ci765jpew7plkqtsbgcwkra9s?si=9015587f20aa4e52">
-  <img align="left" alt="Vladut Margineanu's Spotify" width="42px" src="https://github.com/vladutmargineanu/vladutmargineanu/tree/main/svg/spotify.svg?raw=true" />
+  <img align="left" alt="Vladut Margineanu's Spotify" width="42px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/spotify.svg" />
 </a>
 
 <br />
