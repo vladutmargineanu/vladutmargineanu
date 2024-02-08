@@ -41,9 +41,10 @@ Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate C
   <img align="right" alt="GIF" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/code.gif?raw=true" width="380" height="300" />
   
 ---
-  
+
 - 💬 Ask me about anything, I am happy to help!
-- 💼 [email](mailto:vladut.margineanu@gmail.com)
+- 📧 [email](mailto:vladut.margineanu@gmail.com)
+
 ---
 
 **Languages and tools**  
