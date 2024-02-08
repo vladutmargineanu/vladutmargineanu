@@ -42,7 +42,7 @@ Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate C
   
 ---
   
-- 💼 Any freelance work? Do reach, [email](mailto:vladut.margineanu@gmail.com).
+- 💼 [email](mailto:vladut.margineanu@gmail.com).
 - 💬 Ask me about anything, I am happy to help!
 
 ---
