@@ -68,7 +68,7 @@ Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate C
 ---
 
 ## 📈 My github stats
----
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladutmargineanu&theme=gotham&show_icons=true)
 ---  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladutmargineanu&layout=compact&theme=gotham)
