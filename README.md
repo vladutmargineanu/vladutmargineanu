@@ -36,13 +36,13 @@
   <img align="left" alt="Vladut Margineanu's Spotify" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/spotify.svg" />
 </a>
 
-<br />
+<br/>
 
 ---
 
 Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate Computer Science Engineer. I take great care in the experience, architecture and code quality of the things I build.
 
-  <img align="right" alt="GIF" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/code.gif?raw=true" width="380" height="300" />
+  <img align="right" alt="GIF" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/code.gif?raw=true" width="360" height="290" />
 
 
 💬 Ask me about anything, I am happy to help 📧 [email](mailto:vladut.margineanu@gmail.com)
