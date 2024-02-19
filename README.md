@@ -1,5 +1,9 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="mailto:vladut.margineanu@gmail.com">
+  <img align="left" alt="Vladut Margineanu | Instagram" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/gmail.svg" />
+</a>
+
 <a href="https://www.instagram.com/vladutmargineanu/">
   <img align="left" alt="Vladut Margineanu | Instagram" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/instagram.svg" />
 </a>
