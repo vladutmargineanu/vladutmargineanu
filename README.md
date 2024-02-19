@@ -46,7 +46,7 @@ Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate C
   
 ---
 
-- 💬 Ask me about anything, I am happy to help 📧 [email](mailto:vladut.margineanu@gmail.com)
+💬 Ask me about anything, I am happy to help 📧 [email](mailto:vladut.margineanu@gmail.com)
 
 ---
 
