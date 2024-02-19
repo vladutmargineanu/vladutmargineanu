@@ -71,9 +71,8 @@ Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate C
 
 ---
 ## Visitors
----
-![VisitorCount](https://profile-counter.glitch.me/{id}/count.svg)
 
+![VisitorCount](https://profile-counter.glitch.me/{id}/count.svg)
 
 ---
 ## Support me
