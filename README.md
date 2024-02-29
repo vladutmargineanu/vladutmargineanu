@@ -32,10 +32,6 @@
   <img align="left" alt="Vladut Margineanu's Twitch" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/twitch.svg" />
 </a>
 
-<a href="https://open.spotify.com/user/ci765jpew7plkqtsbgcwkra9s?si=9015587f20aa4e52">
-  <img align="left" alt="Vladut Margineanu's Spotify" width="22px" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/svg/spotify.svg" />
-</a>
-
 <br/>
 
 ---
@@ -45,7 +41,7 @@ Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate C
   <img align="right" alt="GIF" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/code.gif?raw=true" width="360" height="290" />
 
 
-💬 Ask me about anything, I am happy to help 📧 [email](mailto:vladut.margineanu@gmail.com)
+💬 Ask me about anything, I am happy to help [📧](mailto:vladut.margineanu@gmail.com)
 
 ---
 
