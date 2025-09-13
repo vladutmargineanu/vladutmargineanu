@@ -68,11 +68,6 @@ Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate C
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vladutmargineanu&theme=gotham)
 
 ---
-## Visitors
-
-![VisitorCount](https://profile-counter.glitch.me/{id}/count.svg)
-
----
 ## Support me
 
 If you like what I do, maybe consider buying me a coffee.
