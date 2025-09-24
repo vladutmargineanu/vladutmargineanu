@@ -38,8 +38,6 @@
 
 Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate Computer Science Engineer. I take great care in the experience, architecture and code quality of the things I build.
 
-  <img align="right" alt="GIF" src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/code.gif?raw=true" width="360" height="290" />
-
 
 💬 Ask me about anything, I am happy to help [📧](mailto:vladut.margineanu@gmail.com)
 
@@ -57,24 +55,4 @@ Hi, I'm [Vladut Margineanu](https://vladutmargineanu.github.io/), a passionate C
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-
 ---
-
-## 📈 My github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladutmargineanu&theme=gotham&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladutmargineanu&layout=compact&theme=gotham)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vladutmargineanu&theme=gotham)
-
----
-## Support me
-
-If you like what I do, maybe consider buying me a coffee.
-
-<div style="border-radius: 15px; border: 4px solid #084CFA;">
-  <a href="https://revolut.me/vladutmargineanu" target="_blank" rel="noopener noreferrer"><img src="https://github.com/vladutmargineanu/vladutmargineanu/blob/main/Revolut-Icon-Logowine.png" alt="Revolut" width="90" height="60" /></a>
-</div>
-
----
-Thanks! 💚
